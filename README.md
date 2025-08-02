@@ -1,4 +1,5 @@
-# MY GAME SCOPE
+# MY GAME SCOPE <img width="32" height="26" alt="MYGAMESCOPELOGO" src="https://github.com/user-attachments/assets/63f1952e-4b56-4e7c-a5f3-9ec21a9262d4" />
+
 ### File structure for game development.
 ___
 >Keeping your project well organized is fundamental to its success.
