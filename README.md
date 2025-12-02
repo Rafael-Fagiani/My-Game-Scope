@@ -8,5 +8,4 @@ ___
 >
 >This offers a number of advantages that optimize your workflow, increase productivity and improve the final quality of your game.
 ---
-![view](https://github.com/user-attachments/assets/c6748328-5110-4cf5-835a-28458f1e5a56)
-
+<img width="714" height="1689" alt="scopes" src="https://github.com/user-attachments/assets/ecd7b3b4-cc08-4183-b5dd-656b5f0a2d8d" />
